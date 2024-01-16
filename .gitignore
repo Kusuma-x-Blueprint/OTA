@@ -3,3 +3,5 @@
 
 # But not these files...
 !.gitignore
+!mojito.json
+!mojito_changelog.md
