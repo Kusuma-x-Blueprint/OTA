@@ -1,3 +1,10 @@
+## lineage-20.0-20240220-UNOFFICIAL-KUSUMA-mojito
+
+- Source changelogs: https://github.com/Kusuma-x-Blueprint/OTA/releases/tag/3/
+- Enable proximity check before waking up device
+- Give regulatory labels white background
+- Update strings and translations for Mi Sound Enhancer
+
 ## lineage-20.0-20240116-UNOFFICIAL-KUSUMA-mojito
 
 - Source changelogs: https://github.com/Kusuma-x-Blueprint/OTA/releases/tag/2/
