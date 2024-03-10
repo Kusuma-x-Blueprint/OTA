@@ -1,3 +1,12 @@
+## lineage-20.0-20240310-UNOFFICIAL-KUSUMA-mojito
+
+- Source changelogs: https://github.com/Kusuma-x-Blueprint/OTA/releases/tag/4/
+- Set screen recorder max framerate to 60 fps
+- Improvement for audio
+- Drop Miui Camera entirely
+- Use vendor camera legacy provider
+- Properly support aux camera on Aperture
+
 ## lineage-20.0-20240220-UNOFFICIAL-KUSUMA-mojito
 
 - Source changelogs: https://github.com/Kusuma-x-Blueprint/OTA/releases/tag/3/
